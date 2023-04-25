@@ -2,9 +2,9 @@
 <p>
 -  👋 Hi, I’m @arunpranav-at
   <br>
--  I code mainly using the language of python. I also code using C and C++
+-  I code mainly using the language of python. I also code using C and C++. I use HTML, CSS and Javascript for web development.
   <br>
--  Currently immersing myself in Full stack development and various frameworks required for it like React, Angular, Vue and Svelte for front end, Nodejs, Flask for backend, MySQL, Mongodb for database, etc
+-  Currently immersing myself in Full stack development and various frameworks required for it like React, Angular, Vue and Svelte for front end, Nodejs, Flask for backend, MySQL, Mongodb for database, etc.
   <br>
 -  I’m interested in Machine Learning and Artificial Intelligence, Data Science and Analytics, Full Stack development and many more.
   <br>
