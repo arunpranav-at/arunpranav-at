@@ -1,4 +1,4 @@
-<h1> ARUN PRANAV A T<h1>
+<h1> ARUN PRANAV A T</h1>
 -  👋 Hi, I’m @arunpranav-at
 -  I code mainly using the language of python. I also code using C and C++
 -  I’m interested in Machine Learning and Artificial Intelligence,
