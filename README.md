@@ -16,7 +16,7 @@
   <br>
 -  📫 You can mail me at the id - pranav9176@gmail.com
   <br>
--  I am also in LinkedIn - Arun Pranav A T https://www.linkedin.com/in/arun-pranav-a-t-35a92613
+-  I am also in LinkedIn - Arun Pranav A T https://www.linkedin.com/in/arunpranavat/
   <br>
 </p>
 
