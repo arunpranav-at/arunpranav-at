@@ -1,24 +1,7 @@
-<h1> ARUN PRANAV A T</h1>
-<p>
--  👋 Hi, I’m @arunpranav-at
-  <br>
--  I code mainly using the language of Python. I also code using C and C++. I learning JAVA. I use HTML, CSS and Javascript for web development.
-  <br>
--  Currently immersing myself in Full stack development and various frameworks required for it like React, Angular for front end, Nextjs, Nodejs, Express.js, Flask and Django for backend, MySQL, Mongodb for database, etc.
-  <br>
--  I’m interested in Machine Learning and Artificial Intelligence, Data Science and Analytics, Full Stack development and many more.
-  <br>
--  I am making myself strong in Data Structure concepts and Algorithms.
-  <br>
--  Trying to prove myself in competitive programming too.
-  <br>
--  🌱 I’m currently learning all those that I mentioned in my interests.
-  <br>
--  📫 You can mail me at the id - pranav9176@gmail.com
-  <br>
--  I am also in LinkedIn - Arun Pranav A T https://www.linkedin.com/in/arunpranavat/
-  <br>
-</p>
+## ARUN PRANAV A T
+-  👋 Hi, I am Arun Pranav A T, A Humble Technologist, Ambivert, and Optimist, Weaving Code With Care and Collaboration. <br>
+-  📫 You can mail me at the id - pranav9176@gmail.com <br>
+-  I am also in LinkedIn - https://www.linkedin.com/in/arunpranavat/ <br>
 
 <!---
 arunpranav-at/arunpranav-at is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
