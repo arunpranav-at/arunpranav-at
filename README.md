@@ -11,13 +11,16 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/arunpranavat" target="blank"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" height="40" width="40" /></a>
-  <a href="https://instagram.com/arunpranavat" target="blank"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="instagram" height="40" width="40" /></a>
-  <a href="https://www.codechef.com/users/arunpranavat" target="blank"><img src="https://img.icons8.com/?size=100&id=eqDiO9L02aEu&format=png&color=000000" alt="codechef" height="40" width="40" /></a>
-  <a href="https://codeforces.com/profile/pranav9176" target="blank"><img src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" alt="codeforces" height="40" width="40" /></a>
-  <a href="https://www.leetcode.com/arunpranavat" target="blank"><img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="leetcode" height="40" width="40" /></a>
+  <table align="center">
+    <tr>
+      <td><a href="https://linkedin.com/in/arunpranavat" target="blank"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" height="40" width="40" /></a></td>
+      <td><a href="https://instagram.com/arunpranavat" target="blank"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="instagram" height="40" width="40" /></a></td>
+      <td><a href="https://www.codechef.com/users/arunpranavat" target="blank"><img src="https://img.icons8.com/?size=100&id=eqDiO9L02aEu&format=png&color=000000" alt="codechef" height="40" width="40" /></a></td>
+      <td><a href="https://codeforces.com/profile/pranav9176" target="blank"><img src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" alt="codeforces" height="40" width="40" /></a></td>
+      <td><a href="https://www.leetcode.com/arunpranavat" target="blank"><img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="leetcode" height="40" width="40" /></a></td>
+    </tr>
+  </table>
 </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunpranav-at" alt="arunpranav-at" /></a> </p>
 
 <!---
